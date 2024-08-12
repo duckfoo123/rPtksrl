@@ -19,7 +19,7 @@ public class Calculator {
         
         double result;
         
-        // 연산자에 따라 계산 수행
+        
         switch(operator) {
             case '+':
                 result = num1 + num2;
